@@ -121,3 +121,8 @@ uv run pytest -q
 ```
 
 Focused test modules cover models, authorization/scoping, audit atomicity, Case lifecycle/outbox behavior, Command View projection/idempotency, and Partner behavior.
+
+## Assignment deliverables
+
+- [Part A requirement traceability](docs/part-a-requirements-traceability.md)
+- [Part B infrastructure and hosting strategy](docs/part-b-hosting-strategy.md)
